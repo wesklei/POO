@@ -1,0 +1,285 @@
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/postgresSun Nov 27 03:05:07 BRST 2011
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/localhost Sun Nov 27 03:08:26 BRST 2011
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Sun Nov 27 03:10:04 BRST 2011
+
+org.postgresql.util.PSQLException: Conexão negada. Verifique se o nome da máquina e a porta estão corretos e se o postmaster está aceitando conexões TCP/IP. Sun Nov 27 19:23:06 BRST 2011
+
+org.postgresql.util.PSQLException: Este ResultSet está fechado. Sun Nov 27 19:25:36 BRST 2011
+
+org.postgresql.util.PSQLException: Este ResultSet está fechado. Sun Nov 27 19:30:19 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "pessoajuridica_pkey"
+  Detalhe: Key (cnpjpj)=(33333333333333) already exists. Sun Nov 27 19:43:10 BRST 2011
+
+org.postgresql.util.PSQLException: O índice da coluna está fora do intervalo: 0, número de colunas: 1. Sun Nov 27 20:28:06 BRST 2011
+
+org.postgresql.util.PSQLException: O índice da coluna está fora do intervalo: 0, número de colunas: 1. Sun Nov 27 20:31:23 BRST 2011
+
+org.postgresql.util.PSQLException: O índice da coluna está fora do intervalo: 0, número de colunas: 1. Sun Nov 27 20:35:23 BRST 2011
+
+org.postgresql.util.PSQLException: O índice da coluna está fora do intervalo: 0, número de colunas: 1. Sun Nov 27 20:35:41 BRST 2011
+
+org.postgresql.util.PSQLException: O índice da coluna está fora do intervalo: 0, número de colunas: 1. Sun Nov 27 20:35:47 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: integer out of range Mon Nov 28 09:04:48 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: integer out of range Mon Nov 28 09:08:15 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: integer out of range Mon Nov 28 09:11:03 BRST 2011
+
+org.postgresql.util.PSQLException: ResultSet não está posicionado corretamente, talvez você precise chamar next. Mon Nov 28 10:51:08 BRST 2011
+
+org.postgresql.util.PSQLException: Conexão negada. Verifique se o nome da máquina e a porta estão corretos e se o postmaster está aceitando conexões TCP/IP. Mon Nov 28 16:16:52 BRST 2011
+
+org.postgresql.util.PSQLException: Conexão negada. Verifique se o nome da máquina e a porta estão corretos e se o postmaster está aceitando conexões TCP/IP. Mon Nov 28 20:22:16 BRST 2011
+
+org.postgresql.util.PSQLException: Conexão negada. Verifique se o nome da máquina e a porta estão corretos e se o postmaster está aceitando conexões TCP/IP. Mon Nov 28 20:34:43 BRST 2011
+
+org.postgresql.util.PSQLException: Nenhum valor especificado para parâmetro 1. Mon Nov 28 21:01:01 BRST 2011
+
+org.postgresql.util.PSQLException: Nenhum valor especificado para parâmetro 1. Mon Nov 28 21:02:03 BRST 2011
+
+java.lang.NullPointerException Mon Nov 28 21:05:24 BRST 2011
+
+java.lang.NullPointerException Mon Nov 28 21:05:29 BRST 2011
+
+java.lang.NullPointerException Mon Nov 28 21:05:34 BRST 2011
+
+java.lang.NullPointerException Mon Nov 28 21:09:42 BRST 2011
+
+java.lang.NullPointerException Mon Nov 28 21:09:47 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: insert or update on table "dependente" violates foreign key constraint "dependente_cpfcontr_fkey"
+  Detalhe: Key (cpfcontr)=(0) is not present in table "contribuinte". Mon Nov 28 21:39:56 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: column "valorbem" is of type money but expression is of type double precision
+  Dica: You will need to rewrite or cast the expression.
+  Posição: 76 Mon Nov 28 23:19:56 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo long : 121,212.00 Tue Nov 29 00:07:34 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo long : 121,212.00 Tue Nov 29 00:08:25 BRST 2011
+
+org.postgresql.util.PSQLException: Conexão negada. Verifique se o nome da máquina e a porta estão corretos e se o postmaster está aceitando conexões TCP/IP. Tue Nov 29 10:00:08 BRST 2011
+
+java.lang.NumberFormatException: For input string: "e2" Tue Nov 29 19:03:35 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo long : 23,232.00 Tue Nov 29 19:30:59 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo long : 23,232.00 Tue Nov 29 19:45:53 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo long : 23,000.00 Tue Nov 29 19:46:15 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo long : 23,232.00 Tue Nov 29 19:48:36 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 23,232.00 Tue Nov 29 20:04:42 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 23,222.00 Tue Nov 29 20:04:59 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 232,323.23 Tue Nov 29 20:05:55 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 7,878,787.00 Tue Nov 29 20:06:46 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 232,323.23 Tue Nov 29 20:09:50 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 23,222.00 Tue Nov 29 20:09:54 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 21,345,677.00 Tue Nov 29 20:10:16 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 21,345,677.00 Tue Nov 29 20:11:01 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 23,232.00 Tue Nov 29 20:16:57 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot format given Object as a Number Tue Nov 29 20:36:22 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 20:37:32 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 20:38:43 BRST 2011
+
+java.lang.NumberFormatException: For input string: "R$ 11,00" Tue Nov 29 20:41:45 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:18 BRST 2011
+
+java.text.ParseException: Invalid character: 4 Tue Nov 29 21:01:23 BRST 2011
+
+java.text.ParseException: Invalid character: 4 Tue Nov 29 21:01:24 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:24 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:25 BRST 2011
+
+java.text.ParseException: Invalid character: 8 Tue Nov 29 21:01:25 BRST 2011
+
+java.text.ParseException: Invalid character: 7 Tue Nov 29 21:01:25 BRST 2011
+
+java.text.ParseException: Invalid character: 7 Tue Nov 29 21:01:25 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:26 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:26 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:26 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:27 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:27 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:28 BRST 2011
+
+java.text.ParseException: Invalid character: 4 Tue Nov 29 21:01:28 BRST 2011
+
+java.text.ParseException: Invalid character: 4 Tue Nov 29 21:01:30 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:30 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:30 BRST 2011
+
+java.text.ParseException: Invalid character: 8 Tue Nov 29 21:01:30 BRST 2011
+
+java.text.ParseException: Invalid character: 7 Tue Nov 29 21:01:31 BRST 2011
+
+java.text.ParseException: Invalid character: 7 Tue Nov 29 21:01:31 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:31 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:31 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:32 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:32 BRST 2011
+
+java.text.ParseException: Invalid character: 4 Tue Nov 29 21:01:33 BRST 2011
+
+java.text.ParseException: Invalid character: 4 Tue Nov 29 21:01:34 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:34 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:34 BRST 2011
+
+java.text.ParseException: Invalid character: 8 Tue Nov 29 21:01:34 BRST 2011
+
+java.text.ParseException: Invalid character: 7 Tue Nov 29 21:01:35 BRST 2011
+
+java.text.ParseException: Invalid character: 7 Tue Nov 29 21:01:35 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:35 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:35 BRST 2011
+
+java.text.ParseException: Invalid character: 3 Tue Nov 29 21:01:36 BRST 2011
+
+java.text.ParseException: Invalid character: 2 Tue Nov 29 21:01:36 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 22:01:03 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 22:02:27 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 22:08:03 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 22:08:57 BRST 2011
+
+java.lang.NumberFormatException Tue Nov 29 22:22:55 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot format given Object as a Number Tue Nov 29 22:39:47 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot format given Object as a Number Tue Nov 29 22:41:09 BRST 2011
+
+java.lang.NumberFormatException: For input string: "teste contra cheq" Wed Nov 30 00:48:05 BRST 2011
+
+java.lang.NullPointerException Wed Nov 30 00:50:37 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: syntax error at or near "’"
+  Posição: 84 Wed Nov 30 00:52:01 BRST 2011
+
+java.lang.NumberFormatException Wed Nov 30 01:17:21 BRST 2011
+
+java.lang.NullPointerException Wed Nov 30 02:15:07 BRST 2011
+
+org.postgresql.util.PSQLException: Valor inválido para tipo BigDecimal : 34,144.00 Wed Nov 30 02:27:59 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot set a null TableModel Wed Nov 30 02:29:54 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot set a null TableModel Wed Nov 30 02:31:49 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot set a null TableModel Wed Nov 30 02:33:16 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot set a null TableModel Wed Nov 30 02:35:12 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot set a null TableModel Wed Nov 30 02:38:09 BRST 2011
+
+java.lang.IllegalArgumentException: Cannot set a null TableModel Wed Nov 30 02:38:24 BRST 2011
+
+org.postgresql.util.PSQLException: O índice da coluna está fora do intervalo: 1, número de colunas: 0. Wed Nov 30 15:33:12 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: numeric field overflow
+  Detalhe: A field with precision 10, scale 2 must round to an absolute value less than 10^8. Wed Nov 30 15:46:20 BRST 2011
+
+java.lang.NullPointerException Wed Nov 30 16:08:08 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: numeric field overflow
+  Detalhe: A field with precision 10, scale 2 must round to an absolute value less than 10^8. Wed Nov 30 16:10:49 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: numeric field overflow
+  Detalhe: A field with precision 10, scale 2 must round to an absolute value less than 10^8. Wed Nov 30 16:11:03 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: numeric field overflow
+  Detalhe: A field with precision 10, scale 2 must round to an absolute value less than 10^8. Wed Nov 30 16:11:14 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: numeric field overflow
+  Detalhe: A field with precision 10, scale 2 must round to an absolute value less than 10^8. Wed Nov 30 16:11:27 BRST 2011
+
+org.postgresql.util.PSQLException: ERROR: numeric field overflow
+  Detalhe: A field with precision 10, scale 2 must round to an absolute value less than 10^8. Wed Nov 30 16:47:22 BRST 2011
+
+java.lang.NullPointerException Wed Nov 30 17:33:49 BRST 2011
+
+java.lang.NullPointerException Wed Nov 30 17:33:53 BRST 2011
+
+java.lang.NullPointerException Wed Nov 30 17:35:01 BRST 2011
+
+org.postgresql.util.PSQLException: Conexão negada. Verifique se o nome da máquina e a porta estão corretos e se o postmaster está aceitando conexões TCP/IP. Thu Dec 01 11:45:34 BRST 2011
+
+java.lang.NumberFormatException: For input string: "           " Thu Dec 01 11:45:41 BRST 2011
+
+java.lang.NumberFormatException: For input string: "s" Thu Dec 01 12:12:15 BRST 2011
+
+java.lang.NumberFormatException: For input string: "fewfw" Thu Dec 01 12:12:24 BRST 2011
+
+java.lang.NumberFormatException: For input string: "re" Thu Dec 01 12:31:46 BRST 2011
+
+java.lang.NumberFormatException: For input string: "sdvs" Thu Dec 01 12:38:26 BRST 2011
+
+java.lang.NumberFormatException: For input string: "weg" Thu Dec 01 12:40:00 BRST 2011
+
+java.lang.NumberFormatException: For input string: "d" Thu Dec 01 12:41:44 BRST 2011
+
+java.lang.NumberFormatException: For input string: "3432234423 " Thu Dec 01 13:40:28 BRST 2011
+
+java.lang.NumberFormatException: For input string: "3432234423 " Thu Dec 01 13:40:42 BRST 2011
+
+java.lang.NumberFormatException: For input string: "3432234423 " Thu Dec 01 13:41:00 BRST 2011
+
+java.lang.NumberFormatException: For input string: "3432234423 " Thu Dec 01 13:41:05 BRST 2011
+
+java.lang.NumberFormatException: For input string: "3432234423 " Thu Dec 01 13:44:13 BRST 2011
+
+java.lang.NumberFormatException: For input string: "3432234423 " Thu Dec 01 13:44:36 BRST 2011
+
+java.lang.NumberFormatException: For input string: "dfdn" Thu Dec 01 14:13:52 BRST 2011
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Mon Nov 25 18:04:20 BRST 2013
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Mon Nov 25 18:04:32 BRST 2013
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Mon Nov 25 18:04:33 BRST 2013
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Fri Feb 07 14:10:41 BRST 2014
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Fri Feb 07 14:10:44 BRST 2014
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Fri Feb 07 14:10:52 BRST 2014
+
+java.sql.SQLException: No suitable driver found for jbdc:postgresql://localhost:5432/dir Fri Feb 07 14:11:09 BRST 2014
